@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  background-color: #3b1e54;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5%;
+}
+
+.box {
+  background-color: #9b7ebd;
+  width: 50%;
+  height: 600px;
+  border-radius: 20px;
+  box-shadow: 7px 7px #9b7ebd93;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 25px;
+}
+
+h1 {
+  font-family: "Sour Gummy", sans-serif;
+  font-size: 43px;
+  color: #ffffff;
+  height: 5px;
+}
+
+h3 {
+  font-family: "Sour Gummy", sans-serif;
+  font-size: 27px;
+  color: #ffffff;
+  height: 5px;
+}
+
+#yourDate {
+  font-family: "Sour Gummy", sans-serif;
+  font-size: 27px;
+  color: #9b7ebd;
+  width: 30%;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+  box-shadow: 6px 6px #ffffff93;
+  border: 1px solid #ffffff;
+}
+
+#doMath {
+  background-color: #ffffff;
+  width: 20%;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 6px 6px #ffffff93;
+  border: 1px solid #ffffff;
+  color: #9b7ebd;
+  font-family: "Sour Gummy", sans-serif;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#age {
+  font-family: "Sour Gummy", sans-serif;
+  font-size: 45px;
+  color: #ffffff;
+  height: 5px;
+}
